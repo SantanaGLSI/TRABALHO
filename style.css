@@ -1,0 +1,27 @@
+body{ background-color: rgb(0, 0, 0);
+
+}
+
+h1{ color: brown;
+    text-align: center; 
+    border-style: double;
+    border-color: bisque;
+    margin-right: 71%;
+}
+h2{ color: brown;
+    text-align: center; 
+    border-style: double;
+    border-color: bisque;
+    margin-right: 71%;
+}
+h3{ color: brown;
+    text-align: center;
+    border-style: double;
+    border-color: bisque;
+    margin-right: 71%;
+}
+#img1{
+    width: 35%;
+    margin-top: -30%;
+    margin-left: 40%;
+}
